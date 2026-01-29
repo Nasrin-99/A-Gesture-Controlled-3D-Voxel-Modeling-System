@@ -1,5 +1,8 @@
 # 🎮 Voxel Architect
 
+![Frontend CI](https://github.com/Nasrin-99/A-Gesture-Controlled-3D-Voxel-Modeling-System/actions/workflows/main.yml/badge.svg)
+
+
 **Voxel Architect** is a real-time, gesture-controlled 3D voxel modeling web application.  
 It allows users to create, edit, and manipulate 3D voxel structures using **hand gestures** captured through a webcam.
 
